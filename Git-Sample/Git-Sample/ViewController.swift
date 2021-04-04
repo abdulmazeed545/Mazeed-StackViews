@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("welcome to git")
+        
+        print("welcome to BRN")
         // Do any additional setup after loading the view.
     }
 
