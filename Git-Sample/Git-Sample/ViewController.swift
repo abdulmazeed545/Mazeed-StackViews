@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         print("welcome to BRN")
         
         print("hi this is subhanireddy")
+        
+        print("ok ok")
+        
+        print("welcome back")
         // Do any additional setup after loading the view.
     }
 
